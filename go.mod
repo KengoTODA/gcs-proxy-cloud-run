@@ -16,13 +16,13 @@ module github.com/DomZippilli/gcs-proxy-cloud-function
 go 1.19
 
 require (
-	cloud.google.com/go v0.102.1
+	cloud.google.com/go v0.104.0
 	cloud.google.com/go/storage v1.26.0
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/rs/zerolog v1.21.0
 	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
 	golang.org/x/text v0.3.7
-	google.golang.org/genproto v0.0.0-20220810155839-1856144b1d9c
+	google.golang.org/genproto v0.0.0-20220822174746-9e6da59bd2fc
 )
 
 require (
