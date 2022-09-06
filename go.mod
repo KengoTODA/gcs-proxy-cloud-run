@@ -22,7 +22,7 @@ require (
 	github.com/rs/zerolog v1.28.0
 	golang.org/x/net v0.0.0-20220826154423-83b083e8dc8b
 	golang.org/x/text v0.3.7
-	google.golang.org/genproto v0.0.0-20220822174746-9e6da59bd2fc
+	google.golang.org/genproto v0.0.0-20220902135211-223410557253
 )
 
 require (
