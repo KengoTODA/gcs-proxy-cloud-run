@@ -13,7 +13,7 @@
 // limitations under the License.
 module github.com/DomZippilli/gcs-proxy-cloud-function
 
-go 1.16
+go 1.19
 
 require (
 	cloud.google.com/go v0.81.0
